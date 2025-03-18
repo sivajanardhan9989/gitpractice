@@ -6,3 +6,4 @@ gitpractice
    
  ####
 feature2 commit1<br />
+feature2 commit2<br />
