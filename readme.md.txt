@@ -7,4 +7,5 @@ gitpractice
  ####
 feature2 commit1 <br />
 feature2 commit2 <br />
-feature2 commit2 <br />
+feature2 commit3 <br />
+feature2 commit4 <br />
