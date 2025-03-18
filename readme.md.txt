@@ -5,5 +5,6 @@ gitpractice
    "feature1 commit3"
    
  ####
-feature2 commit1<br />
-feature2 commit2<br />
+feature2 commit1 <br />
+feature2 commit2 <br />
+feature2 commit2 <br />
